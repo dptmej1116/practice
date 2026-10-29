@@ -17,3 +17,7 @@ This repository contains reusable practice materials for AI-assisted programming
 
 ## Notes
 This repository contains general-purpose practice materials only.
+
+## Git Practice
+
+Git 변경 이력을 연습한다.
