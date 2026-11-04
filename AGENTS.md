@@ -1,4 +1,4 @@
-# AGENTS.md — AI Hackathon Practice Toolkit
+# AGENTS.md
 
 ## 1. 목적과 적용 범위
 
